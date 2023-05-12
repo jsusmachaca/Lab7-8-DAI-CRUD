@@ -1,0 +1,51 @@
+*{
+     font-family: "";
+}
+
+body{
+     background: gray;
+}
+
+input {
+      margin-bottom: 10px;
+      background: grey;
+      
+}
+
+
+#crud {
+     border: solid;
+     padding: 20px;
+     margin-top: 40px;
+     margin-right: 170px;
+     background: white;
+     position: absolute;
+     margin-left: 40px;
+     padding-right: 30px;
+
+}
+
+select{
+     color: white;
+     padding: 10px;
+     font-size: 20px;
+     margin-top: 120px;
+     margin-left: 350px;
+     background: black;
+     
+}
+
+option{
+     background: #2E2E2E;
+}
+
+form{
+     background: white;
+}
+
+table{
+     background: #ffffff;
+     color: black;
+}
+
+
