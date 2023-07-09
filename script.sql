@@ -8,7 +8,7 @@ CREATE TABLE EMPLEADOS (
   apelllidos CHAR(30),
   id_emp INT(5) PRIMARY KEY,
   dni INT(8),
-	sueldo DECIMAL(5.2),
+  sueldo DECIMAL(5.2),
   horas_trabajo INT(3),
   telefono INT(8)
 );
