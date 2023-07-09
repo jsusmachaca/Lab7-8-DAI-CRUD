@@ -1,12 +1,12 @@
-PHP CRUD
+# PHP CRUD
 
-CONFIGURE AND EXECUTE
+# CONFIGURE AND EXECUTE
 
 ***First clone the repo***
 ```bash
 git clone https://github.com/JsasMachaca/Lab7-8-DAI-CRUD.git
 ```
-***Before execute this project make:***
+***Before of execute this project make:***
 ```bash
 mysql -u root -p
 ```
