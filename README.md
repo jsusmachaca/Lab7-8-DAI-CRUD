@@ -10,7 +10,7 @@ git clone https://github.com/JsasMachaca/Lab7-8-DAI-CRUD.git
 ```bash
 mysql -u root -p
 ```
-***CREATE DATABASE AND EXECUTE THE SCRIPT
+***CREATE DATABASE AND EXECUTE THE SCRIPT***
 ```sql
 CREATE DATABASE PRODUCTS;
 USE PRODUCTS;
